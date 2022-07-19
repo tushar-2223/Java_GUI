@@ -1,1 +1,3 @@
- <img src = https://github.com/tusharpankhaniya/Java_GUI/blob/main/icon/project3.jpg" height="350" width="600">
+ <a height="350" width="600">
+     <img src = "icon/project3.jpg">
+ </a>
